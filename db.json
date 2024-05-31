@@ -1,0 +1,9 @@
+{
+  "api": {
+      "v1": {
+          "users": [
+              {"id": 1, "users": "user_test", "email": "test@email.com", "password": "123"
+          ]
+      }
+  }
+}
